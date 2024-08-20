@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoMapDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7724ba3bb797902b3b3ce96d0321e80e538c05a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoMapDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoMapDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
